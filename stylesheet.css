@@ -1,0 +1,40 @@
+/*Stylesheet for the google page replica*/
+
+/** {
+	border-color: blue;
+	border-style: dashed;
+}*/
+
+#header {
+	height: 30px;
+	width: 100%;
+}
+
+#nav {
+	float: right;
+}
+
+#search {
+	
+	margin-top: 180px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#search img {
+	height: 95px;
+	width: 269px;
+}
+
+#header a {
+	text-decoration: none;
+	color: black;
+	font-family: arial;
+	font-size: 0.8em;
+}
+
+#header img {
+	height: 18px;
+	width: 18px;
+}
