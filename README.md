@@ -1,0 +1,2 @@
+# theodinproject
+Learning ground up
